@@ -22,11 +22,8 @@ Start contributing by cloning the repository, when you are done building a featu
 
 ###### To get started, clone the repository to your local
 
-- git clone https://github.com/stackroute/LogAggregatorRT.git
-Optionally, you can clone from a specific branch, we recommend to use branch devbranch_v1 for contributing, pull request are accepted only on this branch
+- git clone https://github.com/Surya11111/LogAggregator-in-Real-Time.git
 
-- git clone https://github.com/stackroute/LogAggregatorRT.git -b devbranch_v1
-To build, run the project, follow these below commands from inside of the project folder
 
 - cd LogAggregatorRT
 
