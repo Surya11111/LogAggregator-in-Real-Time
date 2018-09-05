@@ -4,11 +4,11 @@ Complex Event Processing is a Distributed, Data Intensive, Real time complex dat
 
 Data analysis watch lists can be configured on the fly and analyzed, graphs are plotted and shared with other users.
 
-######Where is it useful
+###### Where is it useful
 
 This application is very useful, where time series data is intensive, flowing with high frequency, fuzzy, intelligence has to be inferred in real time as it happens, to identify assertions & patterns and risk
 
-######Example 1:
+###### Example 1:
 
 By observing the credit card access pattern of a specific user and by comparing each access with his historic access pattern, flag the access as fraudulent or normal, before the transaction is complete or settled.
 Example 2:
@@ -20,7 +20,7 @@ For more feature details refer Wiki
 
 Start contributing by cloning the repository, when you are done building a features/fixing, create a pull request
 
-######To get started, clone the repository to your local
+###### To get started, clone the repository to your local
 
 - git clone https://github.com/stackroute/LogAggregatorRT.git
 Optionally, you can clone from a specific branch, we recommend to use branch devbranch_v1 for contributing, pull request are accepted only on this branch
