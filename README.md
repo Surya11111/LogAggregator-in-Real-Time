@@ -4,7 +4,7 @@ Complex Event Processing is a Distributed, Data Intensive, Real time complex dat
 
 Data analysis watch lists can be configured on the fly and analyzed, graphs are plotted and shared with other users.
 
-##Where is it useful
+######Where is it useful
 
 This application is very useful, where time series data is intensive, flowing with high frequency, fuzzy, intelligence has to be inferred in real time as it happens, to identify assertions & patterns and risk
 
@@ -16,19 +16,19 @@ Example 2:
 > On a stock price data feed, by continuously calculating the average price of a specific stock's price against the competitors stock price, we can trigger event if the price is sharply raising/dropping due unexpected event at stock's firm, which can help the trader to decide if he/she has to got long or short on the stock
 For more feature details refer Wiki
 
-######Contributing
+###### Contributing
 
 Start contributing by cloning the repository, when you are done building a features/fixing, create a pull request
 
-To get started, clone the repository to your local
+######To get started, clone the repository to your local
 
-# git clone https://github.com/stackroute/LogAggregatorRT.git
+- git clone https://github.com/stackroute/LogAggregatorRT.git
 Optionally, you can clone from a specific branch, we recommend to use branch devbranch_v1 for contributing, pull request are accepted only on this branch
 
-# git clone https://github.com/stackroute/LogAggregatorRT.git -b devbranch_v1
+- git clone https://github.com/stackroute/LogAggregatorRT.git -b devbranch_v1
 To build, run the project, follow these below commands from inside of the project folder
 
-# cd LogAggregatorRT
+- cd LogAggregatorRT
 
 - npm install
 - bower install
